@@ -1,0 +1,12 @@
+trigger: 
+- main  
+
+pool: 
+    vmImage: 'ubuntu-latest'
+
+stages: 
+- stage: BuildApp
+    jobs: 
+    - job: BuildPushImage
+        steps:
+        

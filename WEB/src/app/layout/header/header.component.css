@@ -1,0 +1,116 @@
+
+.container {
+    z-index: 1;
+}
+
+.banner {
+    background-color:crimson; 
+    text-align: center;
+    padding:5px;
+    text-decoration:underline;
+    color:white;
+}
+
+.show-sidenav-content {
+    overflow:hidden;
+}
+
+.sidenav-bar {
+    position: right;
+    top: 100;
+    left: 100;
+    width: 100px;
+    height: 100%;
+    background-color: #fff;
+    z-index: 100;
+
+  }
+  
+
+.header-menu_toggler {
+    height:76px;
+    width:84px;
+    background-color:transparent;
+    text-transform:uppercase;
+    border:none;
+}
+.header-menu_toggler_text {
+    color:white;
+    margin-left:30px;
+    
+}
+
+.header-menu_toggler_icon {
+    position:absolute;
+    height: 24px;
+    width: 24px;
+    cursor: pointer;
+   
+}
+
+.header-menu_toggler_icon span:nth-child(1) {
+    top: 4px;
+}
+.header-menu_toggler_icon span:nth-child(2) {
+    top: 8px;
+}
+.header-menu_toggler_icon span:nth-child(3) {
+    top: 12px;
+}
+.header-menu_toggler_icon span:nth-child(4) {
+    top: 16px;
+}
+
+.header-menu_toggler_icon span {
+    background: white;
+    display: block;
+    position:relative;
+    height:2px;
+    width:24px;
+    border-radius:9px;
+    opacity:1;
+    left:0;
+}
+
+.select-category {
+    display:flex;
+    height:40px;
+    background-color:darkgrey;
+    cursor:pointer;
+    margin-top:10px;
+    
+
+    
+}
+.form-wrapper {
+    display:flex;
+    justify-content: center;
+    width:80%;
+    margin:auto;
+}
+
+.form {
+    margin:auto;
+    width: 100%;
+    display: inline-flex;
+    justify-content: space-between;
+    margin-left:0px;
+    
+}
+
+.search-button {
+    height:40px;
+    width:40px;
+    margin-left:0px;
+    background-color:crimson;
+}
+
+.account-button {
+    margin:auto;
+}
+
+.cart-button {
+    margin:auto;
+}
+
+

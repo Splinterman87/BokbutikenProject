@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Bokbutiken_API.props" />
+</Project>

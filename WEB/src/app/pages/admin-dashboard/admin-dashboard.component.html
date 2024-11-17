@@ -1,0 +1,15 @@
+
+<app-breadcrumb *ngIf="data" [breadCrumbs]="data"></app-breadcrumb>
+
+<mat-drawer-container
+            [autosize]="true"
+            class="min-h-full max-w-7x1 mx-auto border-x">
+
+
+<mat-drawer mode="side" opened class="p-6">
+
+                <app-admin-side-menu></app-admin-side-menu>
+
+</mat-drawer>
+
+</mat-drawer-container>
