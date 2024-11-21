@@ -9,55 +9,55 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Bokbutiken_API
 build_property.RootNamespace = Bokbutiken_API
-build_property.ProjectDir = D:\Programmering\Angular-projekt\Bokbutiken\API\Bokbutiken_API\
+build_property.ProjectDir = C:\Users\kniklass\source\repos\BokbutikenProject\API\Bokbutiken_API\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Programmering\Angular-projekt\Bokbutiken\API\Bokbutiken_API
+build_property.MSBuildProjectDirectory = C:\Users\kniklass\source\repos\BokbutikenProject\API\Bokbutiken_API
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Programmering/Angular-projekt/Bokbutiken/API/Bokbutiken_API/Views/Authors/Create.cshtml]
+[C:/Users/kniklass/source/repos/BokbutikenProject/API/Bokbutiken_API/Views/Authors/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programmering/Angular-projekt/Bokbutiken/API/Bokbutiken_API/Views/Authors/Delete.cshtml]
+[C:/Users/kniklass/source/repos/BokbutikenProject/API/Bokbutiken_API/Views/Authors/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programmering/Angular-projekt/Bokbutiken/API/Bokbutiken_API/Views/Authors/Details.cshtml]
+[C:/Users/kniklass/source/repos/BokbutikenProject/API/Bokbutiken_API/Views/Authors/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programmering/Angular-projekt/Bokbutiken/API/Bokbutiken_API/Views/Authors/Edit.cshtml]
+[C:/Users/kniklass/source/repos/BokbutikenProject/API/Bokbutiken_API/Views/Authors/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programmering/Angular-projekt/Bokbutiken/API/Bokbutiken_API/Views/Authors/Index.cshtml]
+[C:/Users/kniklass/source/repos/BokbutikenProject/API/Bokbutiken_API/Views/Authors/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programmering/Angular-projekt/Bokbutiken/API/Bokbutiken_API/Views/Books/Create.cshtml]
+[C:/Users/kniklass/source/repos/BokbutikenProject/API/Bokbutiken_API/Views/Books/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programmering/Angular-projekt/Bokbutiken/API/Bokbutiken_API/Views/Books/Delete.cshtml]
+[C:/Users/kniklass/source/repos/BokbutikenProject/API/Bokbutiken_API/Views/Books/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programmering/Angular-projekt/Bokbutiken/API/Bokbutiken_API/Views/Books/Details.cshtml]
+[C:/Users/kniklass/source/repos/BokbutikenProject/API/Bokbutiken_API/Views/Books/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programmering/Angular-projekt/Bokbutiken/API/Bokbutiken_API/Views/Books/Edit.cshtml]
+[C:/Users/kniklass/source/repos/BokbutikenProject/API/Bokbutiken_API/Views/Books/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programmering/Angular-projekt/Bokbutiken/API/Bokbutiken_API/Views/Books/Index.cshtml]
+[C:/Users/kniklass/source/repos/BokbutikenProject/API/Bokbutiken_API/Views/Books/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Programmering/Angular-projekt/Bokbutiken/API/Bokbutiken_API/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/kniklass/source/repos/BokbutikenProject/API/Bokbutiken_API/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

@@ -19,7 +19,7 @@
     "@angular/material": "^15.2.2",
     "@angular/platform-browser": "^16.0.0",
     "@angular/platform-browser-dynamic": "^16.0.0",
-    "@angular/router": "^16.0.0",
+    "@angular/router": "^16.2.12",
     "@coreui/coreui": "^4.2.6",
     "@syncfusion/ej2-angular-navigations": "^21.2.9",
     "ngx-bootstrap": "^6.2.0",

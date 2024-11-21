@@ -11096,19 +11096,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Krist\\.nuget\\packages\\": {}
+    "C:\\Users\\kniklass\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programmering\\Angular-projekt\\Bokbutiken\\API\\Bokbutiken_API\\Bokbutiken_API.csproj",
+      "projectUniqueName": "C:\\Users\\kniklass\\source\\repos\\BokbutikenProject\\API\\Bokbutiken_API\\Bokbutiken_API.csproj",
       "projectName": "Bokbutiken_API",
-      "projectPath": "D:\\Programmering\\Angular-projekt\\Bokbutiken\\API\\Bokbutiken_API\\Bokbutiken_API.csproj",
-      "packagesPath": "C:\\Users\\Krist\\.nuget\\packages\\",
-      "outputPath": "D:\\Programmering\\Angular-projekt\\Bokbutiken\\API\\Bokbutiken_API\\obj\\",
+      "projectPath": "C:\\Users\\kniklass\\source\\repos\\BokbutikenProject\\API\\Bokbutiken_API\\Bokbutiken_API.csproj",
+      "packagesPath": "C:\\Users\\kniklass\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kniklass\\source\\repos\\BokbutikenProject\\API\\Bokbutiken_API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Krist\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kniklass\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11188,24 +11188,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.35, 6.0.35]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[6.0.35, 6.0.35]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.35, 6.0.35]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.35, 6.0.35]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -11214,7 +11196,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   },
