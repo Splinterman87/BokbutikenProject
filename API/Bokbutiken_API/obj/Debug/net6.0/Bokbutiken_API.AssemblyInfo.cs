@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bokbutiken_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01c1e1afc860bef091bd3068a938ef41f177e212")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47004635702d2d059ca114a75a2010d8d6efcb1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bokbutiken_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bokbutiken_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
