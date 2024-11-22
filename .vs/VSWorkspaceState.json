@@ -1,11 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\API",
-    "\\API\\Bokbutiken_API",
-    "\\API\\Bokbutiken_API\\Data",
-    "\\WEB\\src"
+    "\\WEB"
   ],
-  "SelectedNode": "\\API\\Bokbutiken_API\\appsettings.json",
+  "SelectedNode": "\\WEB\\src",
   "PreviewInSolutionExplorer": false
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bokbutiken_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95ba6a60442584020d6903f493cd3686bb0c1992")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bokbutiken_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bokbutiken_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
