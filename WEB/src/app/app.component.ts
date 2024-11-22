@@ -23,6 +23,7 @@ export class AppComponent implements OnInit {
 
  constructor(private cartService: CartService, private router: Router) {
       this.router.events.subscribe((event) => {
+        
       if (event instanceof NavigationEnd) {
        console.log('<<<<<<<<Route Tree:', this.router.config);
        }
